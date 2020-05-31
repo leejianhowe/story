@@ -1,0 +1,3 @@
+secrets.txt
+#secrets are ignored
+#*.txt  --> means all text are ignore
